@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Import PhD - misc</title><link href="http://importphd.com/" rel="alternate"></link><link href="http://importphd.com/feeds/misc.atom.xml" rel="self"></link><id>http://importphd.com/</id><updated>2018-07-23T00:00:00-04:00</updated><entry><title>Kernel panic: Fatal Exception</title><link href="http://importphd.com/kernel-panic-fatal-exception.html" rel="alternate"></link><published>2018-07-23T00:00:00-04:00</published><updated>2018-07-23T00:00:00-04:00</updated><author><name>Andrew Kail</name></author><id>tag:importphd.com,2018-07-23:/kernel-panic-fatal-exception.html</id><summary type="html">&lt;p&gt;As I mentioned in the first blog post, there are a few reason in which I
+started to write this blog.&lt;/p&gt;
+&lt;h1&gt;Practice&lt;/h1&gt;
+&lt;p&gt;This is a good opportunity for practice in writing. Yes, I know its a blog and not papers or publications.
+Its still writing, and sometimes it may become …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As I mentioned in the first blog post, there are a few reason in which I
+started to write this blog.&lt;/p&gt;
+&lt;h1&gt;Practice&lt;/h1&gt;
+&lt;p&gt;This is a good opportunity for practice in writing. Yes, I know its a blog and not papers or publications.
+Its still writing, and sometimes it may become technical.  That is my hope at least.&lt;/p&gt;
+&lt;h1&gt;Focus&lt;/h1&gt;
+&lt;p&gt;In the past I have tried several times to start a blog of some sort.  I remember I attempted one during
+graduage school and wrote briefly about a conference I attended. I quickly forgot about it. That
+was until I interviewed at my current job and one of the interviewers had apparently google searched me
+and found the blog and its single post.  Still not sure where that page is now.&lt;/p&gt;
+&lt;p&gt;Now that I have a focus for the next few years I feel inclined to write something with meaning.  I hope
+that this will prove fruitful.&lt;/p&gt;
+&lt;h1&gt;Fear&lt;/h1&gt;
+&lt;p&gt;So, the main catalyst of this blog started a few weeks ago when I had a small panic
+attach while at work.  I was in contact with my advisor to discuss my scheduling for
+my first semester. I took a few minutes to look around at what people were saying about
+going back to get a PhD while also working full-time.  Here's some of the things I found:&lt;/p&gt;
+&lt;p&gt;Some not so encouring finds&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.quora.com/Is-it-possible-to-do-PhD-while-working"&gt;Is it possible to do a Phd while working&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some a little more encouraging&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://academia.stackexchange.com/questions/8747/is-it-possible-to-work-full-time-and-complete-a-phd"&gt;Is it possible to work full time and complete a phd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And some that show others doing the same thing&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://womenincoastal.org/youre-doing-a-phd-part-time-while-working-full-time-are-you-insane/"&gt;Are you insane?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After reading a few of these I began to question my decision to do this.  It wasn't too late. I could
+step back and let the professors know that I wasn't willing to commit and couldn't do it.  That's not what I
+did though.  A serious panic started to seep into my mind and I found myself frozen
+at my desk.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="no body panic" src="http://importphd.com/images/sheldon-hyperventilate.gif"&gt;&lt;/p&gt;
+&lt;p&gt;After a few minutes sitting there, I stepped back, texted my wife what I was feeling, and told myself that its been done by others.
+I coasted through most of college, even my Masters, without doing close to 100%. What would happen if I actually
+focused on what I was doing. It also helps that I have lots of support, both from my family and also from work.
+I am lucky that I have a flexible job with good working hours and management that is in full support.&lt;/p&gt;
+&lt;p&gt;Now how did that lead to a blog?  Well, one of the many articles I read about keeping up your motivation
+during a PhD program suggested writing a blog. After a bit of thinking, I figured that was a good idea.
+Especially if I am to make it through the &lt;a href="http://juliopeironcely.com/archives/5-phases-of-phd-motivation-explained-the-roller-coaster-curve.html"&gt;Crisis of Meaning&lt;/a&gt;
+in the next several years.  Plus, it holds me accountable and by sharing my experience will help others who are
+also working full time. &lt;/p&gt;
+&lt;p&gt;So, I have some goals now for my PhD. Some are my minimum expectations and some are moonshot goals. I am focused and ready
+to go.&lt;/p&gt;
+&lt;p&gt;~ Andrew&lt;/p&gt;</content><category term="health"></category></entry><entry><title>ModuleNotFoundError: No module named 'phd'</title><link href="http://importphd.com/modulenotfounderror-no-module-named-phd.html" rel="alternate"></link><published>2018-07-15T00:00:00-04:00</published><updated>2018-07-15T00:00:00-04:00</updated><author><name>Andrew Kail</name></author><id>tag:importphd.com,2018-07-15:/modulenotfounderror-no-module-named-phd.html</id><summary type="html">&lt;p&gt;Ok, after almost 5 years working and developing Python Codes. Its
+time for a phd.  Easy right?&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;phd&lt;/span&gt;
+&lt;span class="n"&gt;Traceback&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;most&lt;/span&gt; &lt;span class="n"&gt;recent&lt;/span&gt; &lt;span class="n"&gt;call&lt;/span&gt; &lt;span class="n"&gt;last&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+  &lt;span class="n"&gt;File&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;&amp;lt;stdin&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;line&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;module&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="n"&gt;ModuleNotFoundError&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;No&lt;/span&gt; &lt;span class="n"&gt;module&lt;/span&gt; &lt;span class="n"&gt;named&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;phd&amp;#39;&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Wait....&lt;/p&gt;
+&lt;div class="d-flex justify-content-center inline-image" &gt;
+&lt;iframe src="https://giphy.com/embed/2fs2I4ujlBf20" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I forget... it doesn't work like &lt;code&gt;import antigravity&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;So, you've somehow wandered over to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ok, after almost 5 years working and developing Python Codes. Its
+time for a phd.  Easy right?&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;phd&lt;/span&gt;
+&lt;span class="n"&gt;Traceback&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;most&lt;/span&gt; &lt;span class="n"&gt;recent&lt;/span&gt; &lt;span class="n"&gt;call&lt;/span&gt; &lt;span class="n"&gt;last&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+  &lt;span class="n"&gt;File&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;&amp;lt;stdin&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;line&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;module&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="n"&gt;ModuleNotFoundError&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;No&lt;/span&gt; &lt;span class="n"&gt;module&lt;/span&gt; &lt;span class="n"&gt;named&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;phd&amp;#39;&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Wait....&lt;/p&gt;
+&lt;div class="d-flex justify-content-center inline-image" &gt;
+&lt;iframe src="https://giphy.com/embed/2fs2I4ujlBf20" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I forget... it doesn't work like &lt;code&gt;import antigravity&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;So, you've somehow wandered over to
+this blog and I would like to personally welcome you here.  This is going to be
+a documentation of my journey towards a PhD while also working a full time job. &lt;/p&gt;
+&lt;p&gt;So who am I? My name is Andrew Kail and I graduated from the University of Tennessee in 2011 and 2013 with a Bachelor and Masters degree
+in Aerospace engineering.  Currently I'm a Senior Scientist at Savannah River National 
+Laboratory in South Carolina where I am a jack of all trades in the computing group, but mostly
+"They Pythong Guy".&lt;/p&gt;
+&lt;p&gt;I'm starting a PhD after having worked at a National Lab for
+5 years.  Why?  I keep asking myself that same question everytime I think about the start
+of classes in a few weeks.  Its been on my mind for a while now and was a little bit when I was finishing
+up my Masters.  At the time I was definitely not ready to continue my education from a maturity
+and work ethic standpoint, and thankfully my advisor made sure I knew that. I also had no idea what
+degree I would like to pursue or what I was even doing with my career really.  I was an Aerospace Engineer who
+realized he was far more interested in programming and computing than building rockets and planes. Given a few years
+and self reflection I started to consider the idea more and more (especially when I realized I could get it payed for by
+work).  I had a few roadblocks though, I liked my job, couldn't find a program nearby in semi-rural South Carolina, and I just
+didn't like the idea of doing a CompSci degree.&lt;/p&gt;
+&lt;p&gt;Things took a turn in December when I discovered the &lt;a href="https://ualr.edu/online/programs/cis/"&gt;Information Science&lt;/a&gt; program 
+at the University of Arkansas Little Rock.  It piqued my interest. It covered a lot of the topics I was interested in
+such as data science, machine learning, information system architecture and visualization. It also allows me to work remotely
+and the courses are held at reasonable hours so I could continue to work full time.
+I was accepted into the program about a month ago and have been working to get everything taken care of.&lt;/p&gt;
+&lt;p&gt;So, why the blog? I'll cover the why in more detail in another post so come back for more! As for what you can expect,
+here are some of the things I will be trying to cover: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Overall Progress&lt;/li&gt;
+&lt;li&gt;Total cost of my PhD process&lt;/li&gt;
+&lt;li&gt;Fun content to keep my spirits up&lt;/li&gt;
+&lt;li&gt;Useful links&lt;/li&gt;
+&lt;li&gt;Reading Recommendations&lt;/li&gt;
+&lt;li&gt;Hopefully links and announcements on publications&lt;/li&gt;
+&lt;li&gt;and General updates and frustrations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you read this and stick around I really appreciate and I hope we all can get something out of this.&lt;/p&gt;
+&lt;p&gt;~ Andrew&lt;/p&gt;</content></entry></feed>
