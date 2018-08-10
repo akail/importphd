@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Import PhD - misc</title><link href="http://importphd.com/" rel="alternate"></link><link href="http://importphd.com/feeds/misc.atom.xml" rel="self"></link><id>http://importphd.com/</id><updated>2018-08-06T00:00:00-04:00</updated><entry><title>Student Status</title><link href="http://importphd.com/student-status.html" rel="alternate"></link><published>2018-08-06T00:00:00-04:00</published><updated>2018-08-06T00:00:00-04:00</updated><author><name>Andrew Kail</name></author><id>tag:importphd.com,2018-08-06:/student-status.html</id><summary type="html">&lt;p&gt;student memberships
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Import PhD - misc</title><link href="https://importphd.com/" rel="alternate"></link><link href="https://importphd.com/feeds/misc.atom.xml" rel="self"></link><id>https://importphd.com/</id><updated>2018-08-06T00:00:00-04:00</updated><entry><title>Student Status</title><link href="https://importphd.com/student-status.html" rel="alternate"></link><published>2018-08-06T00:00:00-04:00</published><updated>2018-08-06T00:00:00-04:00</updated><author><name>Andrew Kail</name></author><id>tag:importphd.com,2018-08-06:/student-status.html</id><summary type="html">&lt;p&gt;student memberships
 unfortunately acm doesn't provide everything i would like such as the safari books online, so I paid for everything&lt;/p&gt;
 &lt;p&gt;One note, none of these are affiliate links.  I have no intention of monetizing this blog right now and just
 want to make other PhD students lives easier.&lt;/p&gt;
@@ -24,7 +24,7 @@ want to make other PhD students lives easier.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://clark.com/deals-money-saving-advice/discounts-you-can-get-with-a-student-id/"&gt;Clark Howard&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.bestcollegesonline.com/blog/100-stores-that-give-a-student-discount/"&gt;other&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content></entry><entry><title>Kernel panic: Fatal Exception</title><link href="http://importphd.com/kernel-panic-fatal-exception.html" rel="alternate"></link><published>2018-07-23T00:00:00-04:00</published><updated>2018-07-23T00:00:00-04:00</updated><author><name>Andrew Kail</name></author><id>tag:importphd.com,2018-07-23:/kernel-panic-fatal-exception.html</id><summary type="html">&lt;p&gt;As I mentioned in the first blog post, there are a few reason I decided to write this blog.&lt;/p&gt;
+&lt;/ul&gt;</content></entry><entry><title>Kernel panic: Fatal Exception</title><link href="https://importphd.com/kernel-panic-fatal-exception.html" rel="alternate"></link><published>2018-07-23T00:00:00-04:00</published><updated>2018-07-23T00:00:00-04:00</updated><author><name>Andrew Kail</name></author><id>tag:importphd.com,2018-07-23:/kernel-panic-fatal-exception.html</id><summary type="html">&lt;p&gt;As I mentioned in the first blog post, there are a few reason I decided to write this blog.&lt;/p&gt;
 &lt;h1&gt;Practice&lt;/h1&gt;
 &lt;p&gt;This is a good opportunity for practice in writing. Yes, I know its a blog and not papers or publications.
 Its still writing, and sometimes it may become technical.  That …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As I mentioned in the first blog post, there are a few reason I decided to write this blog.&lt;/p&gt;
@@ -59,7 +59,7 @@ going back to get a PhD while also working full-time.&lt;/p&gt;
 step back and let the professors know that I wasn't willing to commit and couldn't do it.  That's not what I
 did though.  A serious panic started to seep into my mind and I found myself frozen
 at my desk.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="no body panic" src="http://importphd.com/images/sheldon-hyperventilate.gif"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="no body panic" src="https://importphd.com/images/sheldon-hyperventilate.gif"&gt;&lt;/p&gt;
 &lt;p&gt;After sitting in my chair for several minutes, I closes all the browser tabs open and took a deep breath. Also made
 sure to text my wife to let her know as these things don't usually get to me.  So why the panic?  Well, this is a huge commitment
 to make and I really do enjoy my free time to pursue some of my hobbies, spend time with friends and family, and workout.
@@ -73,7 +73,7 @@ Especially if I am to make it through the &lt;a href="http://juliopeironcely.com
 in the next several years.  Plus, it holds me accountable and by sharing my experience will help others who are
 also working full time. &lt;/p&gt;
 &lt;p&gt;So, I have some goals now for my PhD. Some are my minimum expectations and some are moonshot goals. I am focused and ready
-to go.&lt;/p&gt;</content><category term="health"></category></entry><entry><title>ModuleNotFoundError: No module named 'phd'</title><link href="http://importphd.com/modulenotfounderror-no-module-named-phd.html" rel="alternate"></link><published>2018-07-15T00:00:00-04:00</published><updated>2018-07-15T00:00:00-04:00</updated><author><name>Andrew Kail</name></author><id>tag:importphd.com,2018-07-15:/modulenotfounderror-no-module-named-phd.html</id><summary type="html">&lt;p&gt;Ok, after almost 5 years working and developing Python Codes. Its
+to go.&lt;/p&gt;</content><category term="health"></category></entry><entry><title>ModuleNotFoundError: No module named 'phd'</title><link href="https://importphd.com/modulenotfounderror-no-module-named-phd.html" rel="alternate"></link><published>2018-07-15T00:00:00-04:00</published><updated>2018-07-15T00:00:00-04:00</updated><author><name>Andrew Kail</name></author><id>tag:importphd.com,2018-07-15:/modulenotfounderror-no-module-named-phd.html</id><summary type="html">&lt;p&gt;Ok, after almost 5 years working and developing Python Codes. Its
 time to go for a PhD.  This shouldn't be too hard, right?&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;phd&lt;/span&gt;
 &lt;span class="n"&gt;Traceback&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;most&lt;/span&gt; &lt;span class="n"&gt;recent&lt;/span&gt; &lt;span class="n"&gt;call&lt;/span&gt; &lt;span class="n"&gt;last&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
